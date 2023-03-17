@@ -2,7 +2,7 @@
 
 /**
 This Sketch turns a pin on for "pinOnTimeMs" when a NoteOn signal is received
- after that it turns the pin off
+after that it turns the pin off
 
 **/
 
